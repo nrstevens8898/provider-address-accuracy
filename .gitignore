@@ -1,0 +1,11 @@
+# Data: raw downloads, CSVs and the hand-check files (contain real provider names)
+data/
+provider_key.csv
+*.db
+
+# Python environment and caches
+.venv/
+__pycache__/
+
+# Mac system files
+.DS_Store
